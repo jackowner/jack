@@ -102,11 +102,11 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Support-30302f?style=flat&logo=telegram)](https://telegram.dog/suryaprabhas1245)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeluguDubbedHorrorMovies2)
+[![telegram badge](https://img.shields.io/badge/Support-30302f?style=flat&logo=telegram)](https://telegram.dog/jack_is_here1)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/star_movies_hd_telugu)
 
 ## Credits 
-* [![Surya Prabhas](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/SuryaPrabhas1245)
+* [![Jack](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/jack_is_here1)
 
 
 ## Thanks to 
